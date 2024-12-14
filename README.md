@@ -1,2 +1,1 @@
 # alurajavaSpringboot
-escalabilit
